@@ -1,0 +1,5 @@
+com\example\demo\domain\Country.class
+com\example\demo\domain\Genre.class
+com\example\demo\domain\Cinema.class
+com\example\demo\domain\Actor.class
+com\example\demo\domain\Film.class
